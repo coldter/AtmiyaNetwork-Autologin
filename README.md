@@ -12,9 +12,9 @@ set USER=xxx <your username>
 set PASSWORD=xxxx <your password>
 ```
 
-To use just double click either script to run or you can also set an Environment path varibale to run it from just a one terminal command...
+To use just double click either script to run, or you can also set an Environment path varibale to run it with just a one terminal command...
 
->Make sure you're connected to the network I've not write any checks yet
+>Make sure you're connected to the network I've not writen any checks yet
 
 ## LINUX:
 

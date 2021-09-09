@@ -21,7 +21,7 @@ To use just double click either script to run or you can also set an Environment
 **Your already know what to do, just make sure to give script permison to execute**
 
 ```sh
-chmod chmod u+x <script_name>.sh
+chmod u+x <script_name>.sh
 ```
 
 you can also add alias of place it in /bin folder to easy access.

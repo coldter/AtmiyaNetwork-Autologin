@@ -24,7 +24,7 @@ To use just double click either script to run or you can also set an Environment
 chmod u+x <script_name>.sh
 ```
 
-you can also add alias of place it in /bin folder to easy access.
+you can also add alias or place it in /bin folder to easy access.
 
 ----------
 
